@@ -11,8 +11,8 @@
 	<title>Chaindavi</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 14 May 2021 09:48:47 +0000</lastBuildDate>
+	<description>My journey starts here...</description>
+	<lastBuildDate>Sat, 15 May 2021 04:17:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,22 +20,46 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>Hello world!</title>
-		<link>/2021/05/14/hello-world/</link>
-					<comments>/2021/05/14/hello-world/#comments</comments>
+		<title>My Christmas celebration in 2020</title>
+		<link>/2021/05/15/my-christmas-celebration-in-2020/</link>
+					<comments>/2021/05/15/my-christmas-celebration-in-2020/#respond</comments>
 		
 		<dc:creator><![CDATA[chaindavi]]></dc:creator>
-		<pubDate>Fri, 14 May 2021 09:48:47 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<pubDate>Sat, 15 May 2021 04:15:15 +0000</pubDate>
+				<category><![CDATA[2020]]></category>
+		<guid isPermaLink="false">/?p=41</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
+					<description><![CDATA[My Christmas celebration was awesome. Love you all&#8230;]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="41" class="elementor elementor-41" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-90c1d66 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="90c1d66" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f086526" data-id="f086526" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f3eecf0 elementor-widget elementor-widget-text-editor" data-id="f3eecf0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p>My Christmas celebration was awesome. Love you all&#8230;</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-8423a5c" data-id="8423a5c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0c701cf elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="0c701cf" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/HL9ndcIm9XA&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
 					
-					<wfw:commentRss>/2021/05/14/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>/2021/05/15/my-christmas-celebration-in-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
