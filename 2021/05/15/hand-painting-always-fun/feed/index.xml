@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Chaindavi	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: Hand painting always fun	</title>
+	<atom:link href="/2021/05/15/hand-painting-always-fun/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/05/15/hand-painting-always-fun/</link>
 	<description>My journey starts here</description>
 	<lastBuildDate>Sat, 15 May 2021 05:00:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Comment on Hand painting always fun by HelloThere		</title>
+		By: HelloThere		</title>
 		<link>/2021/05/15/hand-painting-always-fun/#comment-2</link>
 
 		<dc:creator><![CDATA[HelloThere]]></dc:creator>
